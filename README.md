@@ -1,4 +1,4 @@
-# 👔 Rajiv Kumar | Principal Engineer | Distributed Systems | Cloud (OCP/K8s) | Banking & Compliance
+# 👔 Rajiv Kumar | Principal Engineer | Banking & Compliance
 
 ## 🚀 About Me
 **Principal Engineer** with 16+ years of progressive leadership driving large-scale banking platform innovation, cloud transformation, and enterprise compliance strategies. 
